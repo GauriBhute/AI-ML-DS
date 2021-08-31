@@ -1,1 +1,1 @@
-# LetsUpgrade-AI-ML
+# Data Science and Machine learning
